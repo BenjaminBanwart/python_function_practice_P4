@@ -1,6 +1,3 @@
-from audioop import mul
-
-
 def max_num(int1, int2, int3):
     return max([int1, int2, int3])
 #max_num(4, 9, 8)
